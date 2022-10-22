@@ -1,6 +1,7 @@
 Esta es la historia de un chico llamado cristhian daniel
 
-el tiene 26 años y quiere aprender a programar,
-para tener un mejor trabajo
+el tiene 27 años y quiere aprender a programar
 
-hoy hablamos de como el quiere aprender a programar con platzi y volverse programados front end para despues ser back end
+hoy hablamos de como el quiere aprender a programar con platzi
+
+mañana el seguira con aprendiendo a programar
