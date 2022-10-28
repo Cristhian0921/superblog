@@ -6,6 +6,8 @@ hoy hablamos de como el quiere aprender a programar con platzi
 
 experimento 1
 
+experimento 2
+
 master 1
 
 master 2
