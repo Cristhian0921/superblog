@@ -6,4 +6,6 @@ hoy hablamos de como el quiere aprender a programar con platzi
 
 master 1
 
+master 2
+
 mañana el seguira con aprendiendo a programar
